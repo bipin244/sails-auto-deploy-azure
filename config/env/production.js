@@ -251,7 +251,7 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
     onlyAllowOrigins: [
-      'http://sails-auto-deploy-azure.azurewebsites.net/',
+      'http://localhost:1337',
     ],
 
 
